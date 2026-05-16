@@ -8,11 +8,11 @@ An AI-powered face authentication system that performs **face spoof detection** 
 * 🛡️ Spoof Detection (Real vs Fake Face Detection)
 * 🧠 Person Identification using DeepFace embeddings
 * 🎥 Supports image and video input
-* ⚡ GPU acceleration with PyTor
-
-
-
+* ⚡ GPU acceleration with PyTorch
 * 📊 Visualization of detection results
+
+  <img width="794" height="474" alt="download" src="https://github.com/user-attachments/assets/454a914a-026f-45d3-9732-7bf059105af2" />
+
 
 ## Tech Stack
 
