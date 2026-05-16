@@ -1,4 +1,4 @@
-<img width="794" height="425" alt="download (2)" src="https://github.com/user-attachments/assets/3b2931da-5ac4-492f-8025-2fb0263d10ee" />
+
 # Face Spoof Detection and Identification using CLIP 
 
 An AI-powered face authentication system that performs **face spoof detection** and **person identification** using deep learning techniques. The project uses **RetinaFace**, **DeepFace**, and **CLIP** models to detect faces, verify whether the face is real or spoofed, and identify the person from images or videos.
