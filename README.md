@@ -10,9 +10,9 @@ An AI-powered face authentication system that performs **face spoof detection** 
 * 🎥 Supports image and video input
 * ⚡ GPU acceleration with PyTor
 
-https://github.com/user-attachments/assets/cafc13df-8c33-4510-b97d-c7da582fa3eb
 
-ch
+  https://github.com/user-attachments/assets/cafc13df-8c33-4510-b97d-c7da582fa3eb
+
 * 📊 Visualization of detection results
 
 ## Tech Stack
